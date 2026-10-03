@@ -2,7 +2,7 @@
 
 Domain name research inside Claude, from [toyroom.ai](https://toyroom.ai). Ask what a domain is worth, which name ideas are already registered, how crowded a keyword is, or how a list of names breaks down by industry. Answers arrive as cards in the conversation, in light and dark mode, on desktop and phone.
 
-![Eight candidate names for a solar installer, ranked by estimated value](assets/bulk-card.png)
+![Ten candidate names for a solar installer, each with its estimate and range](assets/bulk-card.png)
 
 ## What's inside
 
