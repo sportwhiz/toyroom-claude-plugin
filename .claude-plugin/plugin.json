@@ -5,6 +5,7 @@
   "description": "Domain name research in Claude: estimate what a domain is worth, see which names are already registered, gauge how crowded a keyword is, and sort names by industry. Free, no account.",
   "author": { "name": "Toyroom", "url": "https://toyroom.ai" },
   "homepage": "https://api.toyroom.ai/#claude",
+  "privacyPolicyUrl": "https://toyroom.ai/privacy#api",
   "repository": "https://github.com/sportwhiz/toyroom-claude-plugin",
   "license": "MIT",
   "keywords": ["domains", "domain names", "naming", "appraisal", "branding"]
