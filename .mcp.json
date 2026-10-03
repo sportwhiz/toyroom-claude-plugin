@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "toyroom": {
+      "type": "http",
+      "url": "https://api.toyroom.ai/mcp/open"
+    }
+  }
+}
